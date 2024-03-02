@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/narayan-murgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan-murgod" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16425408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16425408" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameisnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisnani" height="30" width="40" /></a>
+<a href="https://instagram.com/thenameisnani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisnani" height="30" width="40" /></a>
 <a href="https://medium.com/@narayanmurgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@narayanmurgod" height="30" width="40" /></a>
 </p>
 
