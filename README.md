@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayan Murgod</h1>
-<h3 align="center">GCP Cloud Support Engineer & DevOps Enthusiast</h3>
+<h3 align="center">GCP Cloud Engineer & DevOps Enthusiast</h3>
 
 <img align="right" width="400" src="https://www.encora.com/hubfs/DevOps%20Engineer%20vs%20Software%20Engineer.jpg#keepProtocol" alt="What is DevOps Engineer vs Software Engineer"/>
 
