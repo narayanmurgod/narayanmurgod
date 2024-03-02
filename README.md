@@ -1,3 +1,5 @@
+![logo](https://miro.medium.com/v2/1*m94cECO0UlZVHZSj9qpliA.png "CI/CD อย่างง่ายด้วย Google Cloud Build ภาค 2 | by theVagabond | Medium")
+
 <h1 align="center">Hi 👋, I'm Narayan Murgod</h1>
 <h3 align="center">GCP Cloud Engineer & DevOps Enthusiast</h3>
 
